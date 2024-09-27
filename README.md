@@ -1,14 +1,14 @@
 # Table of Contents
 ## A. Install Supporting Software - For Windows OS
-### [1. Nginx](#1-nginx)
+### [1. Nginx](#1-nginx-1)
 ### [2. PHP](#2-php-1)
-### [3. Node.js 20.17.0](#3-nodejs-20170)
+### [3. Node.js 20.17.0](#3-nodejs-20170-1)
 
 ## B. Middleware App Setup
-### [1. Place Your Laravel Project in a Suitable Directory](#1-place-your-laravel-project-in-a-suitable-directory)
-### [2. Configure Nginx to Serve Laravel](#2-configure-nginx-to-serve-laravel)
-### [3. Setup Existing Laravel Project](#3-setup-existing-laravel-project)
-### [4. Open the Webpage](#4-open-the-webpage)
+### [1. Place Your Laravel Project in a Suitable Directory](#1-place-your-laravel-project-in-a-suitable-directory-1)
+### [2. Configure Nginx to Serve Laravel](#2-configure-nginx-to-serve-laravel-1)
+### [3. Setup Existing Laravel Project](#3-setup-existing-laravel-project-1)
+### [4. Open the Webpage](#4-open-the-webpage-1)
 
 
 # **A. Install Supporting Software - For Windows OS**
