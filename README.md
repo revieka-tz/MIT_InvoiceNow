@@ -41,7 +41,9 @@
 
    ![image](https://github.com/user-attachments/assets/bdf8c9c7-5164-4ad7-a975-a5114ae2c0a0)
 
-5) Configure php.ini
+5) Download the CA certificate bundle from https://curl.se/ca/cacert.pem.
+   - Save the file on C:\php\extras\ssl\cacert.pem.
+7) Configure php.ini
    - Go to the PHP folder (C:\php).
    - You will find a file named php.ini-development or php.ini-production. Copy one of them and rename it to php.ini.
    - Open php.ini in a text editor (like Notepad or VS Code).
@@ -54,6 +56,7 @@
      extension=openssl
      extension=mysqli
      extension=sqlite
+     curl.cainfo = "C:/php/extras/ssl/cacert.pem"
  
 ## 3. Node.js 20.17.0
 
