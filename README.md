@@ -2,7 +2,7 @@
 ## A. Install Supporting Software - For Windows OS
 ### [1. Nginx](#1-nginx)
 ### [2. PHP](#2-php)
-### [3. Node.js 20.17.0](#3-nodejs-20170-1)
+### - [3. Node.js 20.17.0](#3-nodejs-20170-1)
 
 ## B. Middleware App Setup
 ### [1. Place Your Laravel Project in a Suitable Directory](#1-place-your-laravel-project-in-a-suitable-directory)
