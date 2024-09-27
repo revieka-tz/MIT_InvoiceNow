@@ -1,7 +1,7 @@
 # Table of Contents
 ## A. Install Supporting Software - For Windows OS
 ### [1. Nginx](#1-nginx)
-### [2. PHP](#2-php)
+### [2. PHP](#2-php-1)
 ### [3. Node.js 20.17.0](#3-nodejs-20170)
 
 ## B. Middleware App Setup
